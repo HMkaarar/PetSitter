@@ -1,0 +1,11 @@
+package com.petsitter.donnees.enums;
+
+public enum TypeServices {
+	PET_SITTING_CHEZ_SETTER,
+	PET_SITTING_CHEZ_CLIENT,
+	PROMENDAE,
+	SERVICE_COURSES,
+	SERVICE_PEDIATRE,
+	SERVICE_TOILETTAGE,
+	PRODUTION
+}
